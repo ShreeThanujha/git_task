@@ -1,1 +1,2 @@
-file 3 is craeted in feature branch 
+I will be deleted
+plaese add me to the master branch
